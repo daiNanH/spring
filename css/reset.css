@@ -1,0 +1,19 @@
+body,div,ul,li,p,h1,h2,h3,h4,h5,h6{ padding: 0; margin: 0; font-family: "微软雅黑";}
+
+ol,ul{ list-style: none;}
+
+li{ list-style-type: none;}
+
+img{ border: none;}
+
+a{ text-decoration: none;}
+
+a:hover{ text-decoration: none;}
+
+.fl{ float: left;}
+
+.fr{ float: right;}
+
+.mr{ margin-right: 0;}
+
+.mb{ margin-bottom: 0;}
